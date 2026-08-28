@@ -1,0 +1,138 @@
+version: 1
+default_id: gost-type-a
+sets:
+- id: gost-type-a
+  name: ГОСТ (GOST type A)
+  kind: system
+  docx: templates/catalogs/gost-type-a.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: times-new-roman
+  name: Times New Roman
+  kind: system
+  docx: templates/catalogs/times-new-roman.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: arial
+  name: Arial
+  kind: system
+  docx: templates/catalogs/arial.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: calibri
+  name: Calibri
+  kind: system
+  docx: templates/catalogs/calibri.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: courier-new
+  name: Courier New
+  kind: system
+  docx: templates/catalogs/courier-new.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: pt-sans
+  name: PT Sans
+  kind: system
+  docx: templates/catalogs/pt-sans.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: pt-serif
+  name: PT Serif
+  kind: system
+  docx: templates/catalogs/pt-serif.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: pt-mono
+  name: PT Mono
+  kind: system
+  docx: templates/catalogs/pt-mono.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true
+- id: verdana
+  name: Verdana
+  kind: system
+  docx: templates/catalogs/verdana.docx
+  defaults:
+    paragraph: Normal
+    heading_1: heading 1
+    heading_2: heading 2
+    heading_3: heading 3
+    heading_4: heading 4
+    heading_5: heading 5
+    heading_6: heading 6
+    heading_7: heading 7
+    heading_8: heading 8
+  visible: true

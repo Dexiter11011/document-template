@@ -1,0 +1,871 @@
+{
+  "version": 1,
+  "extracted_at": "2026-08-26T20:24:58Z",
+  "source": {
+    "docx": "templates/espd.docx",
+    "sha256": "5feaac6c7ac4630981523b49f05ce79cb720e4cd416688a5bf146d89a13d950f"
+  },
+  "numbering": {
+    "max_num_id": 31,
+    "bullet_abstract_num_id": "0",
+    "decimal_abstract_num_id": "1"
+  },
+  "defaults": {
+    "heading_1": "heading 1",
+    "heading_2": "heading 2",
+    "heading_3": "heading 3",
+    "paragraph": "Body Text",
+    "paragraph_first": "First Paragraph",
+    "list": "Compact",
+    "table": "TableStyleGost",
+    "code_block": "Source Code",
+    "code_inline": "Verbatim Char",
+    "toc_title": "heading 1",
+    "toc_1": "toc 1",
+    "toc_2": "toc 2",
+    "toc_3": "toc 3",
+    "fallback": "Normal"
+  },
+  "styles_by_name": {
+    "Balloon Text": "aff6",
+    "Block Text": "aff9",
+    "Body Text": "a1",
+    "Captioned Figure": "CaptionedFigure",
+    "Compact": "Compact",
+    "Compact Знак": "Compact0",
+    "Default Paragraph Font": "a2",
+    "envelope address": "aff0",
+    "envelope return": "23",
+    "Figure": "Figure",
+    "Figure Знак": "Figure0",
+    "First Paragraph": "FirstParagraph",
+    "First Paragraph Знак": "FirstParagraph0",
+    "footer": "a9",
+    "footnote text": "af0",
+    "GostKeywords": "GostKeywords",
+    "GostKeywords Знак": "GostKeywords0",
+    "header": "a6",
+    "heading 1": "12",
+    "heading 2": "20",
+    "heading 3": "3",
+    "heading 4": "4",
+    "heading 5": "5",
+    "heading 6": "6",
+    "heading 7": "7",
+    "heading 8": "8",
+    "heading 9": "9",
+    "HTML Typewriter": "HTML",
+    "Hyperlink": "af2",
+    "Image Caption": "ImageCaption",
+    "index 1": "15",
+    "index heading": "aff8",
+    "List Bullet": "affc",
+    "List Number 2": "2",
+    "List Paragraph": "af",
+    "Message Header": "affa",
+    "No List": "a4",
+    "Normal": "a0",
+    "Normal (Web)": "aff3",
+    "Normal Table": "a3",
+    "page number": "afff",
+    "Plain Text": "aff4",
+    "ReferenceItem": "ReferenceItem",
+    "Revision": "ae",
+    "Source Code": "SourceCode",
+    "Source Code Знак": "SourceCode0",
+    "Subtitle": "afe",
+    "Table Caption": "TableCaption",
+    "Table Caption Знак": "TableCaption0",
+    "Table Grid": "ab",
+    "TableStyleAbbreviations": "TableStyleAbbreviations",
+    "TableStyleContributors": "TableStyleContributors",
+    "TableStyleGost": "TableStyleGost",
+    "TableStyleGostNoHeader": "TableStyleGostNoHeader",
+    "Title": "ac",
+    "toa heading": "aff2",
+    "toc 1": "14",
+    "toc 2": "22",
+    "toc 3": "30",
+    "toc 4": "41",
+    "toc 5": "51",
+    "toc 6": "61",
+    "TOC Heading": "aff1",
+    "UnnumberedHeading1": "UnnumberedHeading1",
+    "UnnumberedHeading1 Знак": "UnnumberedHeading10",
+    "UnnumberedHeading1NoTOC": "UnnumberedHeading1NoTOC",
+    "UnnumberedHeading1NoTOC Знак": "UnnumberedHeading1NoTOC0",
+    "UnnumberedHeading2": "UnnumberedHeading2",
+    "Verbatim Char": "VerbatimChar",
+    "Верхний колонтитул Знак": "a7",
+    "ГОСТ19": "19",
+    "ГОСТ19-ОЯ": "19-",
+    "Заголовок": "ac",
+    "Заголовок 1": "12",
+    "Заголовок 1 Знак": "13",
+    "Заголовок 2": "20",
+    "Заголовок 2 Знак": "21",
+    "Заголовок 3": "3",
+    "Заголовок 4": "4",
+    "Заголовок 4 Знак": "40",
+    "Заголовок 5": "5",
+    "Заголовок 5 Знак": "50",
+    "Заголовок 6": "6",
+    "Заголовок 6 Знак": "60",
+    "Заголовок 7": "7",
+    "Заголовок 7 Знак": "70",
+    "Заголовок 8": "8",
+    "Заголовок 8 Знак": "80",
+    "Заголовок 9": "9",
+    "Заголовок 9 Знак": "90",
+    "Заголовок Знак": "ad",
+    "Маркер": "a",
+    "Многоуров 1.а)": "1",
+    "Многоуровневый 1.а": "11",
+    "Многоуровневый 1.а)": "10",
+    "Название организации": "af7",
+    "Название организации Знак": "af8",
+    "Нижний колонтитул Знак": "aa",
+    "Обычный без интервала": "af5",
+    "Обычный без интервала Знак": "af6",
+    "Обычный с отступом": "af3",
+    "Обычный с отступом Знак": "af4",
+    "Обычный-центр": "-",
+    "Обычный-центр Знак": "-0",
+    "Обычный-центр-прописные": "--",
+    "Обычный-центр-прописные Знак": "--0",
+    "Основной текст Знак": "a8",
+    "Подзаголовок Знак": "aff",
+    "Подписи": "affd",
+    "Подписи Знак": "affe",
+    "Подписи-право": "-7",
+    "Подписи-право Знак": "-8",
+    "Подчеркивание": "afd",
+    "СТ-центр": "-1",
+    "Таблица - центр": "-2",
+    "таблица-лево": "-3",
+    "таблица-лево Знак": "-4",
+    "Текст выноски Знак": "aff7",
+    "Текст Знак": "aff5",
+    "Текст сноски Знак": "af1",
+    "УДК": "afb",
+    "УДК Знак": "afc",
+    "Фамилии-по правому краю": "-5",
+    "Фамилии-по правому краю Знак": "-6",
+    "Шапка Знак": "affb",
+    "Штамп": "a5",
+    "Экземпляры": "af9",
+    "Экземпляры Знак": "afa"
+  },
+  "styles_by_id": {
+    "-": "Обычный-центр",
+    "--": "Обычный-центр-прописные",
+    "--0": "Обычный-центр-прописные Знак",
+    "-0": "Обычный-центр Знак",
+    "-1": "СТ-центр",
+    "-2": "Таблица - центр",
+    "-3": "таблица-лево",
+    "-4": "таблица-лево Знак",
+    "-5": "Фамилии-по правому краю",
+    "-6": "Фамилии-по правому краю Знак",
+    "-7": "Подписи-право",
+    "-8": "Подписи-право Знак",
+    "1": "Многоуров 1.а)",
+    "10": "Многоуровневый 1.а)",
+    "11": "Многоуровневый 1.а",
+    "12": "heading 1",
+    "13": "Заголовок 1 Знак",
+    "14": "toc 1",
+    "15": "index 1",
+    "19": "ГОСТ19",
+    "19-": "ГОСТ19-ОЯ",
+    "2": "List Number 2",
+    "20": "heading 2",
+    "21": "Заголовок 2 Знак",
+    "22": "toc 2",
+    "23": "envelope return",
+    "3": "heading 3",
+    "30": "toc 3",
+    "4": "heading 4",
+    "40": "Заголовок 4 Знак",
+    "41": "toc 4",
+    "5": "heading 5",
+    "50": "Заголовок 5 Знак",
+    "51": "toc 5",
+    "6": "heading 6",
+    "60": "Заголовок 6 Знак",
+    "61": "toc 6",
+    "7": "heading 7",
+    "70": "Заголовок 7 Знак",
+    "8": "heading 8",
+    "80": "Заголовок 8 Знак",
+    "9": "heading 9",
+    "90": "Заголовок 9 Знак",
+    "CaptionedFigure": "Captioned Figure",
+    "Compact": "Compact",
+    "Compact0": "Compact Знак",
+    "Figure": "Figure",
+    "Figure0": "Figure Знак",
+    "FirstParagraph": "First Paragraph",
+    "FirstParagraph0": "First Paragraph Знак",
+    "GostKeywords": "GostKeywords",
+    "GostKeywords0": "GostKeywords Знак",
+    "HTML": "HTML Typewriter",
+    "ImageCaption": "Image Caption",
+    "ReferenceItem": "ReferenceItem",
+    "SourceCode": "Source Code",
+    "SourceCode0": "Source Code Знак",
+    "TableCaption": "Table Caption",
+    "TableCaption0": "Table Caption Знак",
+    "TableStyleAbbreviations": "TableStyleAbbreviations",
+    "TableStyleContributors": "TableStyleContributors",
+    "TableStyleGost": "TableStyleGost",
+    "TableStyleGostNoHeader": "TableStyleGostNoHeader",
+    "UnnumberedHeading1": "UnnumberedHeading1",
+    "UnnumberedHeading10": "UnnumberedHeading1 Знак",
+    "UnnumberedHeading1NoTOC": "UnnumberedHeading1NoTOC",
+    "UnnumberedHeading1NoTOC0": "UnnumberedHeading1NoTOC Знак",
+    "UnnumberedHeading2": "UnnumberedHeading2",
+    "VerbatimChar": "Verbatim Char",
+    "a": "Маркер",
+    "a0": "Normal",
+    "a1": "Body Text",
+    "a2": "Default Paragraph Font",
+    "a3": "Normal Table",
+    "a4": "No List",
+    "a5": "Штамп",
+    "a6": "header",
+    "a7": "Верхний колонтитул Знак",
+    "a8": "Основной текст Знак",
+    "a9": "footer",
+    "aa": "Нижний колонтитул Знак",
+    "ab": "Table Grid",
+    "ac": "Title",
+    "ad": "Заголовок Знак",
+    "ae": "Revision",
+    "af": "List Paragraph",
+    "af0": "footnote text",
+    "af1": "Текст сноски Знак",
+    "af2": "Hyperlink",
+    "af3": "Обычный с отступом",
+    "af4": "Обычный с отступом Знак",
+    "af5": "Обычный без интервала",
+    "af6": "Обычный без интервала Знак",
+    "af7": "Название организации",
+    "af8": "Название организации Знак",
+    "af9": "Экземпляры",
+    "afa": "Экземпляры Знак",
+    "afb": "УДК",
+    "afc": "УДК Знак",
+    "afd": "Подчеркивание",
+    "afe": "Subtitle",
+    "aff": "Подзаголовок Знак",
+    "aff0": "envelope address",
+    "aff1": "TOC Heading",
+    "aff2": "toa heading",
+    "aff3": "Normal (Web)",
+    "aff4": "Plain Text",
+    "aff5": "Текст Знак",
+    "aff6": "Balloon Text",
+    "aff7": "Текст выноски Знак",
+    "aff8": "index heading",
+    "aff9": "Block Text",
+    "affa": "Message Header",
+    "affb": "Шапка Знак",
+    "affc": "List Bullet",
+    "affd": "Подписи",
+    "affe": "Подписи Знак",
+    "afff": "page number"
+  },
+  "styles": [
+    {
+      "name": "Normal",
+      "styleId": "a0",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 1",
+      "styleId": "12",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 2",
+      "styleId": "20",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 3",
+      "styleId": "3",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 4",
+      "styleId": "4",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 5",
+      "styleId": "5",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 6",
+      "styleId": "6",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 7",
+      "styleId": "7",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 8",
+      "styleId": "8",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 9",
+      "styleId": "9",
+      "type": "paragraph"
+    },
+    {
+      "name": "Default Paragraph Font",
+      "styleId": "a2",
+      "type": "character"
+    },
+    {
+      "name": "Normal Table",
+      "styleId": "a3",
+      "type": "table"
+    },
+    {
+      "name": "No List",
+      "styleId": "a4",
+      "type": "numbering"
+    },
+    {
+      "name": "Заголовок 4 Знак",
+      "styleId": "40",
+      "type": "character"
+    },
+    {
+      "name": "Штамп",
+      "styleId": "a5",
+      "type": "paragraph"
+    },
+    {
+      "name": "header",
+      "styleId": "a6",
+      "type": "paragraph"
+    },
+    {
+      "name": "Body Text",
+      "styleId": "a1",
+      "type": "paragraph"
+    },
+    {
+      "name": "Верхний колонтитул Знак",
+      "styleId": "a7",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 5 Знак",
+      "styleId": "50",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 6 Знак",
+      "styleId": "60",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 7 Знак",
+      "styleId": "70",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 8 Знак",
+      "styleId": "80",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 9 Знак",
+      "styleId": "90",
+      "type": "character"
+    },
+    {
+      "name": "toc 2",
+      "styleId": "22",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 1",
+      "styleId": "14",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 3",
+      "styleId": "30",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 4",
+      "styleId": "41",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 5",
+      "styleId": "51",
+      "type": "paragraph"
+    },
+    {
+      "name": "footer",
+      "styleId": "a9",
+      "type": "paragraph"
+    },
+    {
+      "name": "Нижний колонтитул Знак",
+      "styleId": "aa",
+      "type": "character"
+    },
+    {
+      "name": "Table Grid",
+      "styleId": "ab",
+      "type": "table"
+    },
+    {
+      "name": "Заголовок 1 Знак",
+      "styleId": "13",
+      "type": "character"
+    },
+    {
+      "name": "Заголовок 2 Знак",
+      "styleId": "21",
+      "type": "character"
+    },
+    {
+      "name": "envelope return",
+      "styleId": "23",
+      "type": "paragraph"
+    },
+    {
+      "name": "Image Caption",
+      "styleId": "ImageCaption",
+      "type": "paragraph"
+    },
+    {
+      "name": "Title",
+      "styleId": "ac",
+      "type": "paragraph"
+    },
+    {
+      "name": "Заголовок Знак",
+      "styleId": "ad",
+      "type": "character"
+    },
+    {
+      "name": "UnnumberedHeading1NoTOC",
+      "styleId": "UnnumberedHeading1NoTOC",
+      "type": "paragraph"
+    },
+    {
+      "name": "Revision",
+      "styleId": "ae",
+      "type": "paragraph"
+    },
+    {
+      "name": "Основной текст Знак",
+      "styleId": "a8",
+      "type": "character"
+    },
+    {
+      "name": "Обычный-центр",
+      "styleId": "-",
+      "type": "paragraph"
+    },
+    {
+      "name": "Обычный-центр Знак",
+      "styleId": "-0",
+      "type": "character"
+    },
+    {
+      "name": "Source Code",
+      "styleId": "SourceCode",
+      "type": "paragraph"
+    },
+    {
+      "name": "Table Caption",
+      "styleId": "TableCaption",
+      "type": "paragraph"
+    },
+    {
+      "name": "Source Code Знак",
+      "styleId": "SourceCode0",
+      "type": "character"
+    },
+    {
+      "name": "UnnumberedHeading1NoTOC Знак",
+      "styleId": "UnnumberedHeading1NoTOC0",
+      "type": "character"
+    },
+    {
+      "name": "Table Caption Знак",
+      "styleId": "TableCaption0",
+      "type": "character"
+    },
+    {
+      "name": "UnnumberedHeading1",
+      "styleId": "UnnumberedHeading1",
+      "type": "paragraph"
+    },
+    {
+      "name": "UnnumberedHeading1 Знак",
+      "styleId": "UnnumberedHeading10",
+      "type": "character"
+    },
+    {
+      "name": "First Paragraph",
+      "styleId": "FirstParagraph",
+      "type": "paragraph"
+    },
+    {
+      "name": "First Paragraph Знак",
+      "styleId": "FirstParagraph0",
+      "type": "character"
+    },
+    {
+      "name": "Compact",
+      "styleId": "Compact",
+      "type": "paragraph"
+    },
+    {
+      "name": "Compact Знак",
+      "styleId": "Compact0",
+      "type": "character"
+    },
+    {
+      "name": "Figure",
+      "styleId": "Figure",
+      "type": "paragraph"
+    },
+    {
+      "name": "Figure Знак",
+      "styleId": "Figure0",
+      "type": "character"
+    },
+    {
+      "name": "Verbatim Char",
+      "styleId": "VerbatimChar",
+      "type": "character"
+    },
+    {
+      "name": "List Paragraph",
+      "styleId": "af",
+      "type": "paragraph"
+    },
+    {
+      "name": "List Number 2",
+      "styleId": "2",
+      "type": "paragraph"
+    },
+    {
+      "name": "Многоуровневый 1.а",
+      "styleId": "11",
+      "type": "numbering"
+    },
+    {
+      "name": "Многоуровневый 1.а)",
+      "styleId": "10",
+      "type": "numbering"
+    },
+    {
+      "name": "Многоуров 1.а)",
+      "styleId": "1",
+      "type": "numbering"
+    },
+    {
+      "name": "СТ-центр",
+      "styleId": "-1",
+      "type": "table"
+    },
+    {
+      "name": "Таблица - центр",
+      "styleId": "-2",
+      "type": "table"
+    },
+    {
+      "name": "ГОСТ19",
+      "styleId": "19",
+      "type": "table"
+    },
+    {
+      "name": "ГОСТ19-ОЯ",
+      "styleId": "19-",
+      "type": "table"
+    },
+    {
+      "name": "footnote text",
+      "styleId": "af0",
+      "type": "paragraph"
+    },
+    {
+      "name": "Текст сноски Знак",
+      "styleId": "af1",
+      "type": "character"
+    },
+    {
+      "name": "toc 6",
+      "styleId": "61",
+      "type": "paragraph"
+    },
+    {
+      "name": "TableStyleGost",
+      "styleId": "TableStyleGost",
+      "type": "table"
+    },
+    {
+      "name": "TableStyleGostNoHeader",
+      "styleId": "TableStyleGostNoHeader",
+      "type": "table"
+    },
+    {
+      "name": "Hyperlink",
+      "styleId": "af2",
+      "type": "character"
+    },
+    {
+      "name": "Маркер",
+      "styleId": "a",
+      "type": "numbering"
+    },
+    {
+      "name": "таблица-лево",
+      "styleId": "-3",
+      "type": "paragraph"
+    },
+    {
+      "name": "таблица-лево Знак",
+      "styleId": "-4",
+      "type": "character"
+    },
+    {
+      "name": "Обычный с отступом",
+      "styleId": "af3",
+      "type": "paragraph"
+    },
+    {
+      "name": "Обычный с отступом Знак",
+      "styleId": "af4",
+      "type": "character"
+    },
+    {
+      "name": "GostKeywords",
+      "styleId": "GostKeywords",
+      "type": "paragraph"
+    },
+    {
+      "name": "GostKeywords Знак",
+      "styleId": "GostKeywords0",
+      "type": "character"
+    },
+    {
+      "name": "Обычный без интервала",
+      "styleId": "af5",
+      "type": "paragraph"
+    },
+    {
+      "name": "Обычный без интервала Знак",
+      "styleId": "af6",
+      "type": "character"
+    },
+    {
+      "name": "Обычный-центр-прописные",
+      "styleId": "--",
+      "type": "paragraph"
+    },
+    {
+      "name": "Название организации",
+      "styleId": "af7",
+      "type": "paragraph"
+    },
+    {
+      "name": "Обычный-центр-прописные Знак",
+      "styleId": "--0",
+      "type": "character"
+    },
+    {
+      "name": "Экземпляры",
+      "styleId": "af9",
+      "type": "paragraph"
+    },
+    {
+      "name": "Название организации Знак",
+      "styleId": "af8",
+      "type": "character"
+    },
+    {
+      "name": "УДК",
+      "styleId": "afb",
+      "type": "paragraph"
+    },
+    {
+      "name": "Экземпляры Знак",
+      "styleId": "afa",
+      "type": "character"
+    },
+    {
+      "name": "Подчеркивание",
+      "styleId": "afd",
+      "type": "paragraph"
+    },
+    {
+      "name": "УДК Знак",
+      "styleId": "afc",
+      "type": "character"
+    },
+    {
+      "name": "Фамилии-по правому краю",
+      "styleId": "-5",
+      "type": "paragraph"
+    },
+    {
+      "name": "Фамилии-по правому краю Знак",
+      "styleId": "-6",
+      "type": "character"
+    },
+    {
+      "name": "HTML Typewriter",
+      "styleId": "HTML",
+      "type": "character"
+    },
+    {
+      "name": "Subtitle",
+      "styleId": "afe",
+      "type": "paragraph"
+    },
+    {
+      "name": "Подзаголовок Знак",
+      "styleId": "aff",
+      "type": "character"
+    },
+    {
+      "name": "envelope address",
+      "styleId": "aff0",
+      "type": "paragraph"
+    },
+    {
+      "name": "TOC Heading",
+      "styleId": "aff1",
+      "type": "paragraph"
+    },
+    {
+      "name": "toa heading",
+      "styleId": "aff2",
+      "type": "paragraph"
+    },
+    {
+      "name": "Normal (Web)",
+      "styleId": "aff3",
+      "type": "paragraph"
+    },
+    {
+      "name": "Plain Text",
+      "styleId": "aff4",
+      "type": "paragraph"
+    },
+    {
+      "name": "Текст Знак",
+      "styleId": "aff5",
+      "type": "character"
+    },
+    {
+      "name": "Balloon Text",
+      "styleId": "aff6",
+      "type": "paragraph"
+    },
+    {
+      "name": "Текст выноски Знак",
+      "styleId": "aff7",
+      "type": "character"
+    },
+    {
+      "name": "index 1",
+      "styleId": "15",
+      "type": "paragraph"
+    },
+    {
+      "name": "index heading",
+      "styleId": "aff8",
+      "type": "paragraph"
+    },
+    {
+      "name": "Block Text",
+      "styleId": "aff9",
+      "type": "paragraph"
+    },
+    {
+      "name": "Message Header",
+      "styleId": "affa",
+      "type": "paragraph"
+    },
+    {
+      "name": "Шапка Знак",
+      "styleId": "affb",
+      "type": "character"
+    },
+    {
+      "name": "UnnumberedHeading2",
+      "styleId": "UnnumberedHeading2",
+      "type": "paragraph"
+    },
+    {
+      "name": "Captioned Figure",
+      "styleId": "CaptionedFigure",
+      "type": "paragraph"
+    },
+    {
+      "name": "ReferenceItem",
+      "styleId": "ReferenceItem",
+      "type": "paragraph"
+    },
+    {
+      "name": "TableStyleAbbreviations",
+      "styleId": "TableStyleAbbreviations",
+      "type": "table"
+    },
+    {
+      "name": "TableStyleContributors",
+      "styleId": "TableStyleContributors",
+      "type": "table"
+    },
+    {
+      "name": "List Bullet",
+      "styleId": "affc",
+      "type": "paragraph"
+    },
+    {
+      "name": "Подписи",
+      "styleId": "affd",
+      "type": "paragraph"
+    },
+    {
+      "name": "Подписи Знак",
+      "styleId": "affe",
+      "type": "character"
+    },
+    {
+      "name": "Подписи-право",
+      "styleId": "-7",
+      "type": "paragraph"
+    },
+    {
+      "name": "Подписи-право Знак",
+      "styleId": "-8",
+      "type": "character"
+    },
+    {
+      "name": "page number",
+      "styleId": "afff",
+      "type": "character"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+document-model>=0.1.0
+Jinja2>=3.1.0
+PyYAML>=6.0
+
+[dev]
+pytest>=7.0

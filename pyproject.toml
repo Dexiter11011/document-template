@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "document-template"
+version = "0.1.0"
+description = "Jinja template rendering and DOCX style catalogs"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "document-model>=0.1.0",
+    "Jinja2>=3.1.0",
+    "PyYAML>=6.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.0"]
+
+[project.scripts]
+document-template = "document_template.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+document_template = ["../templates/**/*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

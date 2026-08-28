@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: document-template
+Version: 0.1.0
+Summary: Jinja template rendering and DOCX style catalogs
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+Requires-Dist: document-model>=0.1.0
+Requires-Dist: Jinja2>=3.1.0
+Requires-Dist: PyYAML>=6.0
+Provides-Extra: dev
+Requires-Dist: pytest>=7.0; extra == "dev"

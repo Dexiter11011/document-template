@@ -1,0 +1,13 @@
+pyproject.toml
+src/document_template/__init__.py
+src/document_template/cli.py
+src/document_template/jinja_env.py
+src/document_template/patch_espd_template.py
+src/document_template/paths.py
+src/document_template/profile.py
+src/document_template.egg-info/PKG-INFO
+src/document_template.egg-info/SOURCES.txt
+src/document_template.egg-info/dependency_links.txt
+src/document_template.egg-info/entry_points.txt
+src/document_template.egg-info/requires.txt
+src/document_template.egg-info/top_level.txt

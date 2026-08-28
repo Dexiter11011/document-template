@@ -1,0 +1,2 @@
+[console_scripts]
+document-template = document_template.cli:main

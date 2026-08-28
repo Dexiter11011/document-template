@@ -1,0 +1,434 @@
+{
+  "version": 1,
+  "extracted_at": "2026-08-28T01:00:03Z",
+  "source": {
+    "docx": "/Users/i.steshin/Documents/MXDRrepo/XDR/project-docs/templates/catalogs/verdana.docx",
+    "sha256": "44d0b802d518232253f2b37c3afdca113f3ebcb0eca2893a24d801d1d3ed774e"
+  },
+  "numbering": {
+    "max_num_id": 6,
+    "bullet_abstract_num_id": "3",
+    "decimal_abstract_num_id": "1"
+  },
+  "defaults": {
+    "heading_1": "heading 1",
+    "heading_2": "heading 2",
+    "heading_3": "heading 3",
+    "heading_4": "heading 4",
+    "heading_5": "heading 5",
+    "heading_6": "heading 6",
+    "heading_7": "heading 7",
+    "heading_8": "heading 8",
+    "paragraph": "Normal",
+    "paragraph_first": "First Paragraph",
+    "list": "Compact",
+    "table": "TableStyleGost",
+    "code_block": "Source Code",
+    "code_inline": "Verbatim Char",
+    "toc_title": "heading 1",
+    "toc_1": "toc 1",
+    "toc_2": "toc 2",
+    "toc_3": "toc 3",
+    "fallback": "Normal"
+  },
+  "styles_by_name": {
+    "caption": "Caption",
+    "Default Paragraph Font": "DefaultParagraphFont",
+    "footer": "Footer",
+    "Footer Char": "FooterChar",
+    "Frame Contents": "FrameContents",
+    "Frame Huge": "FrameHuge",
+    "Frame Huge Char": "FrameHugeChar",
+    "Frame Large": "FrameLarge",
+    "Frame Large Char": "FrameLargeChar",
+    "Frame Medium": "FrameMedium",
+    "Frame Medium Char": "FrameMediumChar",
+    "Frame Small": "FrameSmall",
+    "Frame Small Char": "FrameSmallChar",
+    "Frame Stamp": "FrameStamp",
+    "Frame Stamp Char": "FrameStampChar",
+    "Frame Tiny": "FrameTiny",
+    "Frame Tiny Char": "FrameTinyChar",
+    "header": "Header",
+    "Header Char": "HeaderChar",
+    "heading 1": "Heading1",
+    "Heading 1 Char": "Heading1Char",
+    "heading 2": "Heading2",
+    "Heading 2 Char": "Heading2Char",
+    "heading 3": "Heading3",
+    "Heading 3 Char": "Heading3Char",
+    "heading 4": "Heading4",
+    "Heading 4 Char": "Heading4Char",
+    "heading 5": "Heading5",
+    "Heading 5 Char": "Heading5Char",
+    "heading 6": "Heading6",
+    "Heading 6 Char": "Heading6Char",
+    "heading 7": "Heading7",
+    "Heading 7 Char": "Heading7Char",
+    "heading 8": "Heading8",
+    "Heading 8 Char": "Heading8Char",
+    "heading 9": "Heading9",
+    "Heading 9 Char": "Heading9Char",
+    "Image": "Image",
+    "Image Caption": "ImageCaption",
+    "Image Caption Char": "ImageCaptionChar",
+    "List Bullet": "ListBullet",
+    "List Number": "ListNumber",
+    "List Number Char": "ListNumberChar",
+    "Normal": "Normal",
+    "Normal Table": "TableNormal",
+    "Table Cell": "TableCell",
+    "Table Grid": "TableGrid",
+    "Table Header": "TableHeader",
+    "toc 1": "TOC1",
+    "toc 2": "TOC2",
+    "toc 3": "TOC3",
+    "toc 4": "TOC4",
+    "toc 5": "TOC5",
+    "toc 6": "TOC6",
+    "TOC Heading": "TOCHeading",
+    "Заголовок 1": "Heading1",
+    "Заголовок 2": "Heading2",
+    "Заголовок 3": "Heading3",
+    "Заголовок 4": "Heading4",
+    "Заголовок 5": "Heading5",
+    "Заголовок 6": "Heading6",
+    "Заголовок 7": "Heading7",
+    "Заголовок 8": "Heading8",
+    "Заголовок 9": "Heading9"
+  },
+  "styles_by_id": {
+    "Caption": "caption",
+    "DefaultParagraphFont": "Default Paragraph Font",
+    "Footer": "footer",
+    "FooterChar": "Footer Char",
+    "FrameContents": "Frame Contents",
+    "FrameHuge": "Frame Huge",
+    "FrameHugeChar": "Frame Huge Char",
+    "FrameLarge": "Frame Large",
+    "FrameLargeChar": "Frame Large Char",
+    "FrameMedium": "Frame Medium",
+    "FrameMediumChar": "Frame Medium Char",
+    "FrameSmall": "Frame Small",
+    "FrameSmallChar": "Frame Small Char",
+    "FrameStamp": "Frame Stamp",
+    "FrameStampChar": "Frame Stamp Char",
+    "FrameTiny": "Frame Tiny",
+    "FrameTinyChar": "Frame Tiny Char",
+    "Header": "header",
+    "HeaderChar": "Header Char",
+    "Heading1": "heading 1",
+    "Heading1Char": "Heading 1 Char",
+    "Heading2": "heading 2",
+    "Heading2Char": "Heading 2 Char",
+    "Heading3": "heading 3",
+    "Heading3Char": "Heading 3 Char",
+    "Heading4": "heading 4",
+    "Heading4Char": "Heading 4 Char",
+    "Heading5": "heading 5",
+    "Heading5Char": "Heading 5 Char",
+    "Heading6": "heading 6",
+    "Heading6Char": "Heading 6 Char",
+    "Heading7": "heading 7",
+    "Heading7Char": "Heading 7 Char",
+    "Heading8": "heading 8",
+    "Heading8Char": "Heading 8 Char",
+    "Heading9": "heading 9",
+    "Heading9Char": "Heading 9 Char",
+    "Image": "Image",
+    "ImageCaption": "Image Caption",
+    "ImageCaptionChar": "Image Caption Char",
+    "ListBullet": "List Bullet",
+    "ListNumber": "List Number",
+    "ListNumberChar": "List Number Char",
+    "Normal": "Normal",
+    "TOC1": "toc 1",
+    "TOC2": "toc 2",
+    "TOC3": "toc 3",
+    "TOC4": "toc 4",
+    "TOC5": "toc 5",
+    "TOC6": "toc 6",
+    "TOCHeading": "TOC Heading",
+    "TableCell": "Table Cell",
+    "TableGrid": "Table Grid",
+    "TableHeader": "Table Header",
+    "TableNormal": "Normal Table"
+  },
+  "styles": [
+    {
+      "name": "Normal",
+      "styleId": "Normal",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 1",
+      "styleId": "Heading1",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 2",
+      "styleId": "Heading2",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 3",
+      "styleId": "Heading3",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 4",
+      "styleId": "Heading4",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 5",
+      "styleId": "Heading5",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 6",
+      "styleId": "Heading6",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 7",
+      "styleId": "Heading7",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 8",
+      "styleId": "Heading8",
+      "type": "paragraph"
+    },
+    {
+      "name": "heading 9",
+      "styleId": "Heading9",
+      "type": "paragraph"
+    },
+    {
+      "name": "Default Paragraph Font",
+      "styleId": "DefaultParagraphFont",
+      "type": "character"
+    },
+    {
+      "name": "Normal Table",
+      "styleId": "TableNormal",
+      "type": "table"
+    },
+    {
+      "name": "Heading 1 Char",
+      "styleId": "Heading1Char",
+      "type": "character"
+    },
+    {
+      "name": "header",
+      "styleId": "Header",
+      "type": "paragraph"
+    },
+    {
+      "name": "Header Char",
+      "styleId": "HeaderChar",
+      "type": "character"
+    },
+    {
+      "name": "Heading 2 Char",
+      "styleId": "Heading2Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 3 Char",
+      "styleId": "Heading3Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 4 Char",
+      "styleId": "Heading4Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 5 Char",
+      "styleId": "Heading5Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 6 Char",
+      "styleId": "Heading6Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 7 Char",
+      "styleId": "Heading7Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 8 Char",
+      "styleId": "Heading8Char",
+      "type": "character"
+    },
+    {
+      "name": "Heading 9 Char",
+      "styleId": "Heading9Char",
+      "type": "character"
+    },
+    {
+      "name": "TOC Heading",
+      "styleId": "TOCHeading",
+      "type": "paragraph"
+    },
+    {
+      "name": "caption",
+      "styleId": "Caption",
+      "type": "paragraph"
+    },
+    {
+      "name": "Image",
+      "styleId": "Image",
+      "type": "paragraph"
+    },
+    {
+      "name": "List Bullet",
+      "styleId": "ListBullet",
+      "type": "paragraph"
+    },
+    {
+      "name": "footer",
+      "styleId": "Footer",
+      "type": "paragraph"
+    },
+    {
+      "name": "Footer Char",
+      "styleId": "FooterChar",
+      "type": "character"
+    },
+    {
+      "name": "toc 1",
+      "styleId": "TOC1",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 2",
+      "styleId": "TOC2",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 3",
+      "styleId": "TOC3",
+      "type": "paragraph"
+    },
+    {
+      "name": "Table Grid",
+      "styleId": "TableGrid",
+      "type": "table"
+    },
+    {
+      "name": "Image Caption",
+      "styleId": "ImageCaption",
+      "type": "paragraph"
+    },
+    {
+      "name": "Image Caption Char",
+      "styleId": "ImageCaptionChar",
+      "type": "character"
+    },
+    {
+      "name": "List Number",
+      "styleId": "ListNumber",
+      "type": "paragraph"
+    },
+    {
+      "name": "List Number Char",
+      "styleId": "ListNumberChar",
+      "type": "character"
+    },
+    {
+      "name": "Table Cell",
+      "styleId": "TableCell",
+      "type": "paragraph"
+    },
+    {
+      "name": "Table Header",
+      "styleId": "TableHeader",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 4",
+      "styleId": "TOC4",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 5",
+      "styleId": "TOC5",
+      "type": "paragraph"
+    },
+    {
+      "name": "toc 6",
+      "styleId": "TOC6",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Stamp",
+      "styleId": "FrameStamp",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Stamp Char",
+      "styleId": "FrameStampChar",
+      "type": "character"
+    },
+    {
+      "name": "Frame Contents",
+      "styleId": "FrameContents",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Tiny",
+      "styleId": "FrameTiny",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Tiny Char",
+      "styleId": "FrameTinyChar",
+      "type": "character"
+    },
+    {
+      "name": "Frame Small",
+      "styleId": "FrameSmall",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Small Char",
+      "styleId": "FrameSmallChar",
+      "type": "character"
+    },
+    {
+      "name": "Frame Medium",
+      "styleId": "FrameMedium",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Medium Char",
+      "styleId": "FrameMediumChar",
+      "type": "character"
+    },
+    {
+      "name": "Frame Large",
+      "styleId": "FrameLarge",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Large Char",
+      "styleId": "FrameLargeChar",
+      "type": "character"
+    },
+    {
+      "name": "Frame Huge",
+      "styleId": "FrameHuge",
+      "type": "paragraph"
+    },
+    {
+      "name": "Frame Huge Char",
+      "styleId": "FrameHugeChar",
+      "type": "character"
+    }
+  ]
+}
